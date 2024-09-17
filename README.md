@@ -9,7 +9,7 @@ You can contact us at:
 sander@masteringagility.com OR ryan@optilearn.co.uk
 
 ## Additional Resources
-If you would like to share and add useful resources into this repository, then please feel free to make a pull request into our reader-created-resources for us to consider.
+If you would like to share and add useful resources into this repository, then please feel free to make a pull request for us to consider.
 
 Thank you for engaging with our book and our community.
 
