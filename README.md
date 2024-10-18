@@ -21,7 +21,7 @@ Ryan & Sander
 
 All resources shared here are available under a CC BY-NC-SA license. You can find out more about this license here: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en.
 
-We have made our work available in the form on MURAL templates which you are able to use yourselves and edit for your own situations. To use them yourself, simply create a free Mural account and click 'New Mural from template'.
+We have made our work available in the form of MURAL templates which you are able to use yourselves and edit for your own situations. To use them yourself, simply create a free Mural account and click 'New Mural from template'.
 
 ### Templates
 
