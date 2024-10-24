@@ -3,13 +3,13 @@
 Welcome to the official repository for **Solving for Value**! We wanted to create an easily accessible location for all of the resources we reference throughout the book, or those that we created as part of the process - we hope that you find a good use for them.
 
 ## Disclaimer
-Please pay attention to licensing of each resource shared. In almost all cases, the resources shared are available under a CC BY-NC-SA license. You can find out more about this license here: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en. But in general, this means...
+Please pay attention to the licensing of each resource shared. In almost all cases, the resources shared are available under a CC BY-NC-SA license. You can find out more about this license here: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en. But in general, this means...
 
 _This license enables reusers to distribute, remix, adapt, and build upon the material in any medium or format for noncommercial purposes only, and only so long as attribution is given to the creator. If you remix, adapt, or build upon the material, you must license the modified material under identical terms. CC BY-NC-SA includes the following elements:_
 
- _BY: credit must be given to the creator._
- _NC: Only noncommercial uses of the work are permitted._
- _SA: Adaptations must be shared under the same terms._
+ -_BY: credit must be given to the creator._
+ -_NC: Only noncommercial uses of the work are permitted._
+ -_SA: Adaptations must be shared under the same terms._
  
 For materials that we have not created, we do not assume any ownership. If you believe anything we have shared is in breach of Copyright, please contact us and we will investigate it.
 
@@ -30,10 +30,6 @@ Ryan & Sander
 All graphics in this book were created by Olina Glindevi - the Visual Agile Coach. We're sure you agree with us - they are amazing. With her permission, we have made them available in this repository but please ensure you give credit to Solving for Value and Olina, specifically, for any re-use.
 
 ## MURAL Resources
-
-### License Terms
-
-All resources shared here are available under a CC BY-NC-SA license. You can find out more about this license here: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en.
 
 We have made our work available in the form of MURAL templates which you are able to use yourselves and edit for your own situations. To use them yourself, simply create a free Mural account and click 'New Mural from template'.
 
